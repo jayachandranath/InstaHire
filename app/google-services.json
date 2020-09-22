@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995419399215",
+    "firebase_url": "https://instahire-da18e.firebaseio.com",
+    "project_id": "instahire-da18e",
+    "storage_bucket": "instahire-da18e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995419399215:android:d5265cd659233769dd52da",
+        "android_client_info": {
+          "package_name": "com.cloudeation.instahire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995419399215-1mcbvfiaf5tdn6nr1b2ta77tpsnbr0jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudeation.instahire",
+            "certificate_hash": "71f481b19cfb23a75d917282baf1616bf1086691"
+          }
+        },
+        {
+          "client_id": "995419399215-grsvrfgu7ntepfqfvam5t91o5bnse0lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlytihTq0uyYcZlMVJ3GcEqS9pyIxW-HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995419399215-grsvrfgu7ntepfqfvam5t91o5bnse0lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
